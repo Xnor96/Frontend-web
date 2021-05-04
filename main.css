@@ -72,6 +72,47 @@ nav {
     background-color: rgb(80, 83, 85);
 }
 
+.buscar {
+    position: relative;
+    padding: 5px;
+}
+
+.buscar input {
+    width: 220px;
+    height: 40px;
+    padding: 0 20px;
+    font-size: 18px;
+    color: #000;
+    outline: none;
+    border: 1px solid silver;
+    border-radius: 30px;
+}
+
+.vista-previa {
+    background-color: #f3f3f3;
+    font-size: medium;
+    background: url(Spidey.png);
+    background-position: center;
+}
+
+.cartelera {
+    background: none;
+    width: 210px;
+    height: 290px;
+    padding: 0px;
+    margin-top: 15px;
+    margin-left: 110px;
+    margin-right: 0px;
+}
+
+.boton {
+    background-color: rgb(0, 250, 112);
+    border: none;
+    border-radius: 0.31em;
+    padding: 0.93em 1.87em;
+    font-size: 1.12em;
+}
+
 
 /* Dispositivos Moviles */
 
